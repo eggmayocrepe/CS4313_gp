@@ -1,0 +1,19 @@
+"""
+CS4313 Group Project (AY 2023/24)
+In this project, you will be working in groups of four students. (Groups of Three Students, 30%)
+The academics at a school such as the Wee Kim Wee School of Communication and Information (Wakawaski) publish papers in academic journals.  Publishing is an important activity as it brings tremendous prestige to the school.  The ranking of the university as a whole also, in part, depends on these publications and the number of citations it attracts.  Because of this, every school (not just Wakawaski) keeps a close eye on the list of publications published through the history of the school.
+Each group will work on a Python program to enable users to search through the JSON file to retrieve records they are looking for.
+Minimally, your program should enable searching through:
+the author’s last name
+the title of the journal article
+the title of the journal
+the year of publication
+You are also encouraged to think about, and explore, other search options / combinations to incorporate in your program.
+The database, stored in the JSON format, will contain 120 publications. Bonus points will be awarded for additional functionality that your program delivers. Each student is to schedule a 10-minute session with the instructor at the end of the semester to demonstrate the working a features of the program.
+
+Proposed agenda:
+- how we want to collaborate/share the code (because i don't think we can just google docs the code) 
+- get foundation down (e.g. variable names, etc) 
+- split the code/work (e.g. one person does one main function) 
+- deadlines, if any - brainstorm other functions that the search engine can have :D
+"""
