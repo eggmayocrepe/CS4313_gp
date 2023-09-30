@@ -1,7 +1,0 @@
-import json
-
-f1 = open('XXX.json', encoding='utf-8')   
-
-variable1 = json.loads(f1.read())      
-
-f1.close()   
