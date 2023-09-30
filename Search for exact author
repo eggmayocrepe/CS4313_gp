@@ -1,0 +1,7 @@
+looking_for = XXX
+
+for author in authors:
+    if author['lname'] == looking_for:
+        # print (f"I found {looking_for}")  
+        print (f"{data['paper']['title']['paper_id']}") 
+    pprint.pprint (authors)   # prints out the list of authors for this paper
